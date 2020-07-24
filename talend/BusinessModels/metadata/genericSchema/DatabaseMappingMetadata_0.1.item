@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_iL5cEGW6Eem7Ofbp3QDUkw" comment="connectionComment" label="connectionLabel" dataPackage="_iL5cEWW6Eem7Ofbp3QDUkw" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_iL5cEWW6Eem7Ofbp3QDUkw" dataManager="_iL5cEGW6Eem7Ofbp3QDUkw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_iL5cEmW6Eem7Ofbp3QDUkw" id="_9HLWwGW6Eem7Ofbp3QDUkw" label="Film">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cE2W6Eem7Ofbp3QDUkw" name="ID" id="2243" label="ID" length="20" sourceType="BIGINT" talendType="id_Long">
+        <initialValue xmi:id="_iL5cFGW6Eem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cF2W6Eem7Ofbp3QDUkw" name="Movie" id="2245" label="Movie" length="255" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_iL5cGGW6Eem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cFWW6Eem7Ofbp3QDUkw" name="ReleaseDate" id="2244" label="ReleaseDate" length="-1" precision="-1" sourceType="DATETIME" talendType="id_Date" pattern="&quot;MM/dd/yyyy&quot;">
+        <initialValue xmi:id="_iL5cFmW6Eem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cGWW6Eem7Ofbp3QDUkw" name="ProductionBudget" id="2246" label="ProductionBudget" length="20" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_iL5cGmW6Eem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cG2W6Eem7Ofbp3QDUkw" name="DomesticGross" id="2247" label="DomesticGross" length="20" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_iL5cHGW6Eem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iL5cHWW6Eem7Ofbp3QDUkw" name="WorldwideGross" id="2248" label="WorldwideGross" length="20" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_iL5cHmW6Eem7Ofbp3QDUkw"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

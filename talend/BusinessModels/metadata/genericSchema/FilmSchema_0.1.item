@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_5NEaAGWsEem7Ofbp3QDUkw" comment="connectionComment" label="connectionLabel" dataPackage="_5NEaAWWsEem7Ofbp3QDUkw"/>
+  <TalendMetadata:GenericPackage xmi:id="_5NEaAWWsEem7Ofbp3QDUkw" dataManager="_5NEaAGWsEem7Ofbp3QDUkw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5NFBEGWsEem7Ofbp3QDUkw" id="_PizF4GWtEem7Ofbp3QDUkw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P51s4GWtEem7Ofbp3QDUkw" name="ID" label="ID" length="-1" talendType="id_String" key="true"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5NFBEWWsEem7Ofbp3QDUkw" name="ReleaseDate" id="50" label="ReleaseDate" length="-1" precision="-1" sourceType="" talendType="id_String" pattern="&quot;MM-dd-yyyy&quot;">
+        <initialValue xmi:id="_5NFBEmWsEem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5NFBE2WsEem7Ofbp3QDUkw" name="Movie" id="51" label="Movie" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5NFBFGWsEem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5NFBFWWsEem7Ofbp3QDUkw" name="ProductionBudget" id="52" label="ProductionBudget" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5NFBFmWsEem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5NFBF2WsEem7Ofbp3QDUkw" name="DomesticGross" id="53" label="DomesticGross" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5NFBGGWsEem7Ofbp3QDUkw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5NFBGWWsEem7Ofbp3QDUkw" name="WorldwideGross" id="54" label="WorldwideGross" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5NFBGmWsEem7Ofbp3QDUkw"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

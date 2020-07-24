@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_5OfQcGbXEemH7eP5QvNJpQ" comment="connectionComment" label="connectionLabel" dataPackage="_5OfQcWbXEemH7eP5QvNJpQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_5OfQcWbXEemH7eP5QvNJpQ" dataManager="_5OfQcGbXEemH7eP5QvNJpQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5OfQcmbXEemH7eP5QvNJpQ" id="_IIRvMGbYEemH7eP5QvNJpQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQc2bXEemH7eP5QvNJpQ" name="Genre" id="1713" label="Genre" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQdGbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQdWbXEemH7eP5QvNJpQ" name="Year" id="1714" label="Year" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQdmbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQd2bXEemH7eP5QvNJpQ" name="Rank" id="1715" label="Rank" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQeGbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQeWbXEemH7eP5QvNJpQ" name="Movie" id="1716" label="Movie" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQembXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQe2bXEemH7eP5QvNJpQ" name="ReleaseDate" id="1717" label="ReleaseDate" length="-1" precision="-1" sourceType="" talendType="id_Date" pattern="&quot;MMM dd, yyyy&quot;">
+        <initialValue xmi:id="_5OfQfGbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQfWbXEemH7eP5QvNJpQ" name="Distributor" id="1718" label="Distributor" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQfmbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQf2bXEemH7eP5QvNJpQ" name="Rating" id="1719" label="Rating" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQgGbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQgWbXEemH7eP5QvNJpQ" name="Gross" id="1720" label="Gross" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQgmbXEemH7eP5QvNJpQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5OfQg2bXEemH7eP5QvNJpQ" name="TicketSold" id="1721" label="TicketSold" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_5OfQhGbXEemH7eP5QvNJpQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
